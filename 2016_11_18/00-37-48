@@ -1,0 +1,35 @@
+rtakada/ : diffbot/
+../diffbot/だけに発見: .temp
+../diffbot/だけに発見: __pycache__
+../diffbot/だけに発見: nohup.out
+../diffbot/だけに発見: plugins
+../diffbot/だけに発見: run.py
+../diffbot/だけに発見: slackbot_settings.py
+../rtakada/だけに発見: yesno.txt
+../rtakada/だけに発見: yesno2.txt
+
+
+diffbot/ : rokumura/
+../diffbot/だけに発見: .temp
+../diffbot/だけに発見: __pycache__
+../diffbot/だけに発見: nohup.out
+../rokumura/だけに発見: obaka.txt
+../diffbot/だけに発見: plugins
+../diffbot/だけに発見: run.py
+../diffbot/だけに発見: slackbot_settings.py
+../rokumura/だけに発見: yesno.txt
+
+
+rokumura/ : romachi/
+../rokumura/だけに発見: obaka.txt
+diff ../rokumura/yesno.txt ../romachi/yesno.txt
+3a4,6
+> y
+> y
+> n
+
+
+romachi/ : rtakada/
+../rtakada/だけに発見: yesno2.txt
+
+

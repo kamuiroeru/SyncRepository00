@@ -1,0 +1,9 @@
+../rtakada/yesno.txt : ../rokumura/yesno.txt
+[]
+
+../rokumura/yesno.txt : ../romachi/yesno.txt
+[]
+
+../romachi/yesno.txt : ../rtakada/yesno.txt
+[]
+

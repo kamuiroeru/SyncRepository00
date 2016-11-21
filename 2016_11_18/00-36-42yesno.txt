@@ -1,0 +1,14 @@
+rtakada/yesno.txt : rokumura/yesno.txt
+4,6d3
+< y
+< y
+< n
+
+
+rokumura/yesno.txt : romachi/yesno.txt
+3a4,6
+> y
+> y
+> n
+
+
