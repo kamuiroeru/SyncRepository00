@@ -1,0 +1,6 @@
+rokumura/nlp20.txt : romachi/nlp20.txt
+1,2d0
+< 修正
+< 
+
+
