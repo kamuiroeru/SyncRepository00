@@ -1,0 +1,36 @@
+hoge/hoge.txt : rtakada/hoge.txt
+1c1
+< ほほほげ
+---
+> ほげ
+
+
+hoge/hoge.txt : rokumura/hoge.txt
+1c1,2
+< ほほほげ
+---
+> ほげ
+> hoge
+
+
+hoge/hoge.txt : romachi/hoge.txt
+1d0
+< ほほほげ
+
+
+rtakada/hoge.txt : rokumura/hoge.txt
+1a2
+> hoge
+
+
+rtakada/hoge.txt : romachi/hoge.txt
+1d0
+< ほげ
+
+
+rokumura/hoge.txt : romachi/hoge.txt
+1,2d0
+< ほげ
+< hoge
+
+
