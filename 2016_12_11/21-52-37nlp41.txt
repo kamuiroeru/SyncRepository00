@@ -1,0 +1,5 @@
+rtakada/nlp41.txt : rokumura/nlp41.txt
+7a8
+> 20
+
+
