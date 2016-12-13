@@ -1,0 +1,14 @@
+rtakada/nlp40.txt : romachi/nlp40.txt
+1c1
+< 　 　 記号 空白
+---
+>  *  記号
+
+
+rokumura/nlp40.txt : romachi/nlp40.txt
+1c1
+< 　 　 記号 空白
+---
+>  *  記号
+
+
