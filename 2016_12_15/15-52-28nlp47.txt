@@ -1,0 +1,5 @@
+rtakada/nlp47.txt : rokumura/nlp47.txt
+324d323
+< 取締をする	て	奉って
+
+
