@@ -1,0 +1,73 @@
+0a1,3
+> Natural language processing
+> From Wikipedia, the free encyclopedia
+> 
+2c5,10
+< As such, NLP is related to the area of humani-computer interaction.
+---
+> As such,
+> NLP is related to the area of humani-computer interaction.
+> Many challenges in NLP involve natural language understanding, that is, enabling computers to derive meaning from human or natural language input, and others involve natural language generation.
+> 
+> History
+> 
+3a12,14
+> In 1950,
+> Alan Turing published an article titled "Computing Machinery and Intelligence" which proposed what is now called the Turing test as a criterion of intelligence.
+> 
+6a18,19
+> Little further research in machine translation was conducted until the late 1980s, when the first statistical machine translation systems were developed.
+> 
+8c21,25
+< Using almost no information about human thought or emotion, ELIZA sometimes provided a startlingly human-like interaction.
+---
+> Using almost no information about human thought or emotion,
+> ELIZA sometimes provided a startlingly human-like interaction.
+> When the "patient" exceeded the very small knowledge base,
+> ELIZA might provide a generic response, for example, responding to "My head hurts" with "Why do you say your head hurts?".
+> 
+10c27,35
+< Examples are MARGIE (Schank, 1975), SAM (Cullingford, 1978), PAM (Wilensky, 1978), TaleSpin (Meehan, 1976), QUALM (Lehnert, 1977), Politics (Carbonell, 1979), and Plot Units (Lehnert 1981).
+---
+> Examples are MARGIE (Schank, 1975),
+> SAM (Cullingford, 1978),
+> PAM (Wilensky, 1978),
+> TaleSpin (Meehan, 1976),
+> QUALM (Lehnert, 1977),
+> Politics (Carbonell, 1979), and Plot Units (Lehnert 1981).
+> During this time, many chatterbots were written including PARRY,
+> Racter, and Jabberwacky.
+> 
+15c40,41
+< However, Part of speech tagging introduced the use of Hidden Markov Models to NLP, and increasingly, research has focused on statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to the features making up the input data.
+---
+> However,
+> Part of speech tagging introduced the use of Hidden Markov Models to NLP, and increasingly, research has focused on statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to the features making up the input data.
+16a43,44
+> Such models are generally more robust when given unfamiliar input, especially input that contains errors (as is very common for real-world data), and produce more reliable results when integrated into a larger system comprising multiple subtasks.
+> 
+19a48,49
+> As a result, a great deal of research has gone into methods of more effectively learning from limited amounts of data.
+> 
+22a53,56
+> However, there is an enormous amount of non-annotated data available (including, among other things, the entire content of the World Wide Web), which can often make up for the inferior results.
+> 
+> NLP using machine learning
+> 
+26a61,62
+> A corpus (plural, "corpora") is a set of documents (or sometimes, individual sentences) that have been hand-annotated with the correct values to be learned.
+> 
+30a67,71
+> Such models have the advantage that they can express the relative certainty of many different possible answers rather than only one, producing more reliable results when such a model is included as a component of a larger system.
+> 
+> Systems based on machine-learning algorithms have many advantages over hand-produced rules:
+> 
+> The learning procedures used during machine learning automatically focus on the most common cases, whereas when writing rules by hand it is often not obvious at all where the effort should be directed.
+31a73
+> Generally, handling such input gracefully with hand-written rules -- or more generally, creating systems of hand-written rules that make soft decisions -- extremely difficult, error-prone and time-consuming.
+34a77
+> However, creating more data to input to machine-learning systems simply requires a corresponding increase in the number of man-hours worked, generally without significant increases in the complexity of the annotation process.
+35a79,81
+> When the aims of computational language learning research is to understand more about human language acquisition, or psycholinguistics,
+> NLL overlaps into the related field of Computational Psycholinguistics.
+> 
