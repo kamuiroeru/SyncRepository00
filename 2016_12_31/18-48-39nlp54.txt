@@ -1,0 +1,39 @@
+../rokumura/nlp54.txt : ../rtakada/nlp54.txt
+429c429
+< 1980s	1980	NNS
+---
+> 1980s	1980s	CD
+550,551c550,551
+< tagging	tag	VBG
+< introduced	introduce	VBN
+---
+> tagging	tagging	NN
+> introduced	introduce	VBD
+693c693
+< corpora	corpora	NN
+---
+> corpora	corpus	NN
+738c738
+< corpora	corpora	NN
+---
+> corpora	corpus	NN
+923c923
+< most	most	RBS
+---
+> most	most	JJS
+979c979
+< corpora	corpora	NN
+---
+> corpora	corpus	NN
+991c991
+< corpora	corpora	NN
+---
+> corpora	corpus	NN
+1161c1161
+< learning	learn	VBG
+---
+> learning	learning	NN
+1367c1367
+< man-hours	man-hours	NN
+---
+> man-hours	man-hour	NN
