@@ -1,0 +1,11 @@
+../rokumura/nlp55.txt : ../rtakada/nlp55.txt
+2a3
+> ELIZA
+5,6c6
+< MARGIE
+< Schank
+---
+> ELIZA
+12,13d11
+< Racter
+< Jabberwacky
