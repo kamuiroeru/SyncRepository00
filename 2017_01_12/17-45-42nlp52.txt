@@ -1,0 +1,2141 @@
+../rokumura/nlp52.txt : ../romachi/nlp52.txt
+3a4
+> 
+8a10,11
+> 
+> 
+32a36
+> 
+43a48
+> 
+70a76,77
+> 
+> 
+71a79,80
+> 
+> 
+88a98
+> 
+114a125,126
+> 
+> 
+131a144
+> 
+147a161
+> 
+180a195
+> 
+201a217,218
+> 
+> 
+240a258
+> 
+256a275
+> 
+286a306,307
+> 
+> 
+303a325
+> 
+328a351
+> 
+340a364,365
+> 
+> 
+355a381
+> 
+377a404
+> 
+424a452
+> 
+446a475
+> 
+486a516
+> 
+504a535
+> 
+540a572,573
+> 
+> 
+568a602
+> 
+616a651
+> 
+648a684
+> 
+669a706,707
+> 
+> 
+680a719
+> 
+706a746
+> 
+729a770
+> 
+760a802,803
+> 
+> 
+764a808,809
+> 
+> 
+776a822
+> 
+792a839
+> 
+808a856
+> 
+843a892
+> 
+867a917,918
+> 
+> 
+880a932
+> 
+897a950
+> 
+923a977
+> 
+945a1000
+> 
+983a1039,1040
+> 
+> 
+994a1052,1053
+> 
+> 
+1027a1087
+> 
+1069a1130
+> 
+1096a1158
+> 
+1114a1177
+> 
+1140a1204
+> 
+1164a1229
+> 
+1195a1261
+> 
+1232a1299
+> 
+1259a1327,1328
+> 
+> 
+../rokumura/nlp52.txt : ../rtakada/nlp52.txt
+1c1
+< Natural	natur
+---
+> natural	natur
+4,5c4,5
+< From	from
+< Wikipedia,	wikipedia
+---
+> from	from
+> wikipedia	wikipedia
+9c9,10
+< Natural	natur
+---
+> 	
+> natural	natur
+12c13
+< (NLP)	nlp
+---
+> nlp	nlp
+18c19
+< science,	scienc
+---
+> science	scienc
+20c21
+< intelligence,	intellig
+---
+> intelligence	intellig
+31,35c32,36
+< (natural)	natur
+< languages.	languag
+< As	as
+< such,	such
+< NLP	nlp
+---
+> natural	natur
+> languages	languag
+> as	as
+> such	such
+> nlp	nlp
+42,44c43,45
+< humani-computer	humanicomput
+< interaction.	interact
+< Many	mani
+---
+> humanicomputer	humanicomput
+> interaction	interact
+> many	mani
+47c48
+< NLP	nlp
+---
+> nlp	nlp
+51c52
+< understanding,	understand
+---
+> understanding	understand
+53c54
+< is,	is
+---
+> is	is
+64c65
+< input,	input
+---
+> input	input
+70,72c71,75
+< generation.	gener
+< History	histori
+< The	the
+---
+> generation	gener
+> 	
+> history	histori
+> 	
+> the	the
+75c78
+< NLP	nlp
+---
+> nlp	nlp
+80c83
+< 1950s,	s
+---
+> s	s
+88,92c91,95
+< periods.	period
+< In	in
+< 1950,	
+< Alan	alan
+< Turing	ture
+---
+> periods	period
+> in	in
+> 	
+> alan	alan
+> turing	ture
+97,98c100,101
+< "Computing	comput
+< Machinery	machineri
+---
+> computing	comput
+> machinery	machineri
+100c103
+< Intelligence"	intellig
+---
+> intelligence	intellig
+108c111
+< Turing	ture
+---
+> turing	ture
+114,116c117,120
+< intelligence.	intellig
+< The	the
+< Georgetown	georgetown
+---
+> intelligence	intellig
+> 	
+> the	the
+> georgetown	georgetown
+119c123
+< 1954	
+---
+> 	
+128c132
+< Russian	russian
+---
+> russian	russian
+131,132c135,136
+< English.	english
+< The	the
+---
+> english	english
+> the	the
+140c144
+< years,	year
+---
+> years	year
+147,148c151,152
+< problem.	problem
+< However,	howev
+---
+> problem	problem
+> however	howev
+153c157
+< slower,	slower
+---
+> slower	slower
+157c161
+< ALPAC	alpac
+---
+> alpac	alpac
+160c164
+< 1966,	
+---
+> 	
+173c177
+< expectations,	expect
+---
+> expectations	expect
+180,181c184,185
+< reduced.	reduc
+< Little	littl
+---
+> reduced	reduc
+> little	littl
+192c196
+< 1980s,	s
+---
+> s	s
+201,202c205,207
+< developed.	develop
+< Some	some
+---
+> developed	develop
+> 	
+> some	some
+205c210
+< NLP	nlp
+---
+> nlp	nlp
+210c215
+< 1960s	s
+---
+> s	s
+212c217
+< SHRDLU,	shrdlu
+---
+> shrdlu	shrdlu
+220,221c225,226
+< "blocks	block
+< worlds"	world
+---
+> blocks	block
+> worlds	world
+224c229
+< vocabularies,	vocabulari
+---
+> vocabularies	vocabulari
+226c231
+< ELIZA,	eliza
+---
+> eliza	eliza
+231,232c236,237
+< Rogerian	rogerian
+< psychotherapist,	psychotherapist
+---
+> rogerian	rogerian
+> psychotherapist	psychotherapist
+235,236c240,241
+< Joseph	joseph
+< Weizenbaum	weizenbaum
+---
+> joseph	joseph
+> weizenbaum	weizenbaum
+238c243
+< 1964	
+---
+> 	
+240,241c245,246
+< 1966.	
+< Using	use
+---
+> 	
+> using	use
+249,250c254,255
+< emotion,	emot
+< ELIZA	eliza
+---
+> emotion	emot
+> eliza	eliza
+255,257c260,262
+< human-like	humanlik
+< interaction.	interact
+< When	when
+---
+> humanlike	humanlik
+> interaction	interact
+> when	when
+259c264
+< "patient"	patient
+---
+> patient	patient
+265,266c270,271
+< base,	base
+< ELIZA	eliza
+---
+> base	base
+> eliza	eliza
+271c276
+< response,	respons
+---
+> response	respons
+273c278
+< example,	exampl
+---
+> example	exampl
+276c281
+< "My	my
+---
+> my	my
+278c283
+< hurts"	hurt
+---
+> hurts	hurt
+280c285
+< "Why	whi
+---
+> why	whi
+286,287c291,293
+< hurts?".	hurt
+< During	dure
+---
+> hurts	hurt
+> 	
+> during	dure
+289c295
+< 1970s	s
+---
+> s	s
+295,296c301,302
+< 'conceptual	conceptu
+< ontologies',	ontolog
+---
+> conceptual	conceptu
+> ontologies	ontolog
+299c305
+< real-world	realworld
+---
+> realworld	realworld
+302,304c308,310
+< computer-understandable	computerunderstand
+< data.	data
+< Examples	exampl
+---
+> computerunderstandable	computerunderstand
+> data	data
+> examples	exampl
+306,329c312,335
+< MARGIE	margi
+< (Schank,	schank
+< 1975),	
+< SAM	sam
+< (Cullingford,	cullingford
+< 1978),	
+< PAM	pam
+< (Wilensky,	wilenski
+< 1978),	
+< TaleSpin	talespin
+< (Meehan,	meehan
+< 1976),	
+< QUALM	qualm
+< (Lehnert,	lehnert
+< 1977),	
+< Politics	polit
+< (Carbonell,	carbonel
+< 1979),	
+< and	and
+< Plot	plot
+< Units	unit
+< (Lehnert	lehnert
+< 1981).	
+< During	dure
+---
+> margie	margi
+> schank	schank
+> 	
+> sam	sam
+> cullingford	cullingford
+> 	
+> pam	pam
+> wilensky	wilenski
+> 	
+> talespin	talespin
+> meehan	meehan
+> 	
+> qualm	qualm
+> lehnert	lehnert
+> 	
+> politics	polit
+> carbonell	carbonel
+> 	
+> and	and
+> plot	plot
+> units	unit
+> lehnert	lehnert
+> 	
+> during	dure
+331c337
+< time,	time
+---
+> time	time
+337,338c343,344
+< PARRY,	parri
+< Racter,	racter
+---
+> parry	parri
+> racter	racter
+340,341c346,348
+< Jabberwacky.	jabberwacki
+< Up	up
+---
+> jabberwacky	jabberwacki
+> 	
+> up	up
+344c351
+< 1980s,	s
+---
+> s	s
+346c353
+< NLP	nlp
+---
+> nlp	nlp
+354,356c361,363
+< hand-written	handwritten
+< rules.	rule
+< Starting	start
+---
+> handwritten	handwritten
+> rules	rule
+> starting	start
+360,361c367,368
+< 1980s,	s
+< however,	howev
+---
+> s	s
+> however	howev
+367c374
+< NLP	nlp
+---
+> nlp	nlp
+377,378c384,385
+< processing.	process
+< This	thi
+---
+> processing	process
+> this	thi
+391,392c398,399
+< Moore's	moor
+< Law	law
+---
+> moores	moor
+> law	law
+401c408
+< Chomskyan	chomskyan
+---
+> chomskyan	chomskyan
+405c412
+< (e.g.	eg
+---
+> eg	eg
+407c414
+< grammar),	grammar
+---
+> grammar	grammar
+420c427
+< machine-learning	machinelearn
+---
+> machinelearning	machinelearn
+424,425c431,432
+< processing.	process
+< Some	some
+---
+> processing	process
+> some	some
+428c435
+< earliest-used	earliestus
+---
+> earliestused	earliestus
+431c438
+< algorithms,	algorithm
+---
+> algorithms	algorithm
+435c442
+< trees,	tree
+---
+> trees	tree
+440c447
+< if-then	ifthen
+---
+> ifthen	ifthen
+445,448c452,455
+< hand-written	handwritten
+< rules.	rule
+< However,	howev
+< Part	part
+---
+> handwritten	handwritten
+> rules	rule
+> however	howev
+> part	part
+456,458c463,465
+< Hidden	hidden
+< Markov	markov
+< Models	model
+---
+> hidden	hidden
+> markov	markov
+> models	model
+460c467
+< NLP,	nlp
+---
+> nlp	nlp
+462c469
+< increasingly,	increasingli
+---
+> increasingly	increasingli
+468c475
+< models,	model
+---
+> models	model
+471c478
+< soft,	soft
+---
+> soft	soft
+477c484
+< real-valued	realvalu
+---
+> realvalued	realvalu
+486,487c493,494
+< data.	data
+< The	the
+---
+> data	data
+> the	the
+504,505c511,512
+< models.	model
+< Such	such
+---
+> models	model
+> such	such
+514c521
+< input,	input
+---
+> input	input
+520c527
+< (as	as
+---
+> as	as
+525,526c532,533
+< real-world	realworld
+< data),	data
+---
+> realworld	realworld
+> data	data
+540,541c547,549
+< subtasks.	subtask
+< Many	mani
+---
+> subtasks	subtask
+> 	
+> many	mani
+553c561
+< translation,	translat
+---
+> translation	translat
+559,560c567,568
+< IBM	ibm
+< Research,	research
+---
+> ibm	ibm
+> research	research
+568,569c576,577
+< developed.	develop
+< These	these
+---
+> developed	develop
+> these	these
+587c595
+< Parliament	parliament
+---
+> parliament	parliament
+589c597
+< Canada	canada
+---
+> canada	canada
+592,593c600,601
+< European	european
+< Union	union
+---
+> european	european
+> union	union
+616,617c624,625
+< government.	govern
+< However,	howev
+---
+> government	govern
+> however	howev
+632c640
+< systems,	system
+---
+> systems	system
+635c643
+< (and	and
+---
+> and	and
+639c647
+< be)	be
+---
+> be	be
+648,649c656,657
+< systems.	system
+< As	as
+---
+> systems	system
+> as	as
+651c659
+< result,	result
+---
+> result	result
+669,670c677,679
+< data.	data
+< Recent	recent
+---
+> data	data
+> 	
+> recent	recent
+678c687
+< semi-supervised	semisupervis
+---
+> semisupervised	semisupervis
+680,681c689,690
+< algorithms.	algorithm
+< Such	such
+---
+> algorithms	algorithm
+> such	such
+693c702
+< hand-annotated	handannot
+---
+> handannotated	handannot
+697c706
+< answers,	answer
+---
+> answers	answer
+705,707c714,716
+< non-annotated	nonannot
+< data.	data
+< Generally,	gener
+---
+> nonannotated	nonannot
+> data	data
+> generally	gener
+716c725
+< learning,	learn
+---
+> learning	learn
+729,730c738,739
+< data.	data
+< However,	howev
+---
+> data	data
+> however	howev
+737c746
+< non-annotated	nonannot
+---
+> nonannotated	nonannot
+740c749
+< (including,	includ
+---
+> including	includ
+743c752
+< things,	thing
+---
+> things	thing
+749,751c758,760
+< World	world
+< Wide	wide
+< Web),	web
+---
+> world	world
+> wide	wide
+> web	web
+760,761c769,771
+< results.	result
+< NLP	nlp
+---
+> results	result
+> 	
+> nlp	nlp
+765,766c775,777
+< Modern	modern
+< NLP	nlp
+---
+> 	
+> modern	modern
+> nlp	nlp
+772c783
+< learning,	learn
+---
+> learning	learn
+776,777c787,788
+< learning.	learn
+< The	the
+---
+> learning	learn
+> the	the
+792,793c803,804
+< processing.	process
+< Prior	prior
+---
+> processing	process
+> prior	prior
+796c807
+< language-processing	languageprocess
+---
+> languageprocessing	languageprocess
+808,810c819,821
+< rules.	rule
+< The	the
+< machine-learning	machinelearn
+---
+> rules	rule
+> the	the
+> machinelearning	machinelearn
+819,820c830,831
+< -	
+< often,	often
+---
+> 	
+> often	often
+823c834
+< always,	alway
+---
+> always	alway
+828c839
+< -	
+---
+> 	
+842,844c853,855
+< real-world	realworld
+< examples.	exampl
+< A	a
+---
+> realworld	realworld
+> examples	exampl
+> a	a
+846,847c857,858
+< (plural,	plural
+< "corpora")	corpora
+---
+> plural	plural
+> corpora	corpora
+853,854c864,865
+< (or	or
+< sometimes,	sometim
+---
+> or	or
+> sometimes	sometim
+856c867
+< sentences)	sentenc
+---
+> sentences	sentenc
+860c871
+< hand-annotated	handannot
+---
+> handannotated	handannot
+867,868c878,880
+< learned.	learn
+< Many	mani
+---
+> learned	learn
+> 	
+> many	mani
+879,881c891,893
+< NLP	nlp
+< tasks.	task
+< These	these
+---
+> nlp	nlp
+> tasks	task
+> these	these
+890c902
+< "features"	featur
+---
+> features	featur
+897,898c909,910
+< data.	data
+< Some	some
+---
+> data	data
+> some	some
+901,902c913,914
+< earliest-used	earliestus
+< algorithms,	algorithm
+---
+> earliestused	earliestus
+> algorithms	algorithm
+906c918
+< trees,	tree
+---
+> trees	tree
+911c923
+< if-then	ifthen
+---
+> ifthen	ifthen
+918c930
+< hand-written	handwritten
+---
+> handwritten	handwritten
+923,925c935,937
+< common.	common
+< Increasingly,	increasingli
+< however,	howev
+---
+> common	common
+> increasingly	increasingli
+> however	howev
+931c943
+< models,	model
+---
+> models	model
+934c946
+< soft,	soft
+---
+> soft	soft
+940c952
+< real-valued	realvalu
+---
+> realvalued	realvalu
+945,946c957,958
+< feature.	featur
+< Such	such
+---
+> feature	featur
+> such	such
+966c978
+< one,	one
+---
+> one	one
+983,984c995,997
+< system.	system
+< Systems	system
+---
+> system	system
+> 	
+> systems	system
+987c1000
+< machine-learning	machinelearn
+---
+> machinelearning	machinelearn
+993,995c1006,1009
+< hand-produced	handproduc
+< rules:	rule
+< The	the
+---
+> handproduced	handproduc
+> rules	rule
+> 	
+> the	the
+1008c1022
+< cases,	case
+---
+> cases	case
+1027,1028c1041,1042
+< directed.	direct
+< Automatic	automat
+---
+> directed	direct
+> automatic	automat
+1047c1061
+< (e.g.	eg
+---
+> eg	eg
+1057c1071
+< before)	befor
+---
+> before	befor
+1062c1076
+< (e.g.	eg
+---
+> eg	eg
+1069,1070c1083,1084
+< omitted).	omit
+< Generally,	gener
+---
+> omitted	omit
+> generally	gener
+1076c1090
+< hand-written	handwritten
+---
+> handwritten	handwritten
+1078c1092
+< --	
+---
+> 	
+1081c1095
+< generally,	gener
+---
+> generally	gener
+1085c1099
+< hand-written	handwritten
+---
+> handwritten	handwritten
+1091c1105
+< --	
+---
+> 	
+1093,1094c1107,1108
+< difficult,	difficult
+< error-prone	errorpron
+---
+> difficult	difficult
+> errorprone	errorpron
+1096,1097c1110,1111
+< time-consuming.	timeconsum
+< Systems	system
+---
+> timeconsuming	timeconsum
+> systems	system
+1114,1115c1128,1129
+< data.	data
+< However,	howev
+---
+> data	data
+> however	howev
+1119c1133
+< hand-written	handwritten
+---
+> handwritten	handwritten
+1133c1147
+< rules,	rule
+---
+> rules	rule
+1140,1142c1154,1156
+< task.	task
+< In	in
+< particular,	particular
+---
+> task	task
+> in	in
+> particular	particular
+1154,1155c1168,1169
+< hand-crafted	handcraft
+< rules,	rule
+---
+> handcrafted	handcraft
+> rules	rule
+1164,1165c1178,1179
+< unmanageable.	unmanag
+< However,	howev
+---
+> unmanageable	unmanag
+> however	howev
+1172c1186
+< machine-learning	machinelearn
+---
+> machinelearning	machinelearn
+1183,1184c1197,1198
+< man-hours	manhour
+< worked,	work
+---
+> manhours	manhour
+> worked	work
+1195,1196c1209,1210
+< process.	process
+< The	the
+---
+> process	process
+> the	the
+1199c1213
+< NLP	nlp
+---
+> nlp	nlp
+1207,1210c1221,1224
+< Natural	natur
+< Language	languag
+< Learning	learn
+< (NLL)	nll
+---
+> natural	natur
+> language	languag
+> learning	learn
+> nll	nll
+1214c1228
+< CoNLL	conll
+---
+> conll	conll
+1218c1232
+< SIGNLL	signll
+---
+> signll	signll
+1222c1236
+< ACL,	acl
+---
+> acl	acl
+1228,1229c1242,1243
+< Computational	comput
+< Linguistics	linguist
+---
+> computational	comput
+> linguistics	linguist
+1231,1233c1245,1247
+< Language	languag
+< Acquisition.	acquisit
+< When	when
+---
+> language	languag
+> acquisition	acquisit
+> when	when
+1248c1262
+< acquisition,	acquisit
+---
+> acquisition	acquisit
+1250,1251c1264,1265
+< psycholinguistics,	psycholinguist
+< NLL	nll
+---
+> psycholinguistics	psycholinguist
+> nll	nll
+1258,1259c1272,1274
+< Computational	comput
+< Psycholinguistics.	psycholinguist
+---
+> computational	comput
+> psycholinguistics	psycholinguist
+> 	
+../romachi/nlp52.txt : ../rtakada/nlp52.txt
+1c1
+< Natural	natur
+---
+> natural	natur
+4,6c4,5
+< 
+< From	from
+< Wikipedia,	wikipedia
+---
+> from	from
+> wikipedia	wikipedia
+10,12c9,10
+< 
+< 
+< Natural	natur
+---
+> 	
+> natural	natur
+15c13
+< (NLP)	nlp
+---
+> nlp	nlp
+21c19
+< science,	scienc
+---
+> science	scienc
+23c21
+< intelligence,	intellig
+---
+> intelligence	intellig
+34,39c32,36
+< (natural)	natur
+< languages.	languag
+< 
+< As	as
+< such,	such
+< NLP	nlp
+---
+> natural	natur
+> languages	languag
+> as	as
+> such	such
+> nlp	nlp
+46,49c43,45
+< humani-computer	humanicomput
+< interaction.	interact
+< 
+< Many	mani
+---
+> humanicomputer	humanicomput
+> interaction	interact
+> many	mani
+52c48
+< NLP	nlp
+---
+> nlp	nlp
+56c52
+< understanding,	understand
+---
+> understanding	understand
+58c54
+< is,	is
+---
+> is	is
+69c65
+< input,	input
+---
+> input	input
+75,81c71,75
+< generation.	gener
+< 
+< 
+< History	histori
+< 
+< 
+< The	the
+---
+> generation	gener
+> 	
+> history	histori
+> 	
+> the	the
+84c78
+< NLP	nlp
+---
+> nlp	nlp
+89c83
+< 1950s,	s
+---
+> s	s
+97,102c91,95
+< periods.	period
+< 
+< In	in
+< 1950,	
+< Alan	alan
+< Turing	ture
+---
+> periods	period
+> in	in
+> 	
+> alan	alan
+> turing	ture
+107,108c100,101
+< "Computing	comput
+< Machinery	machineri
+---
+> computing	comput
+> machinery	machineri
+110c103
+< Intelligence"	intellig
+---
+> intelligence	intellig
+118c111
+< Turing	ture
+---
+> turing	ture
+124,128c117,120
+< intelligence.	intellig
+< 
+< 
+< The	the
+< Georgetown	georgetown
+---
+> intelligence	intellig
+> 	
+> the	the
+> georgetown	georgetown
+131c123
+< 1954	
+---
+> 	
+140c132
+< Russian	russian
+---
+> russian	russian
+143,145c135,136
+< English.	english
+< 
+< The	the
+---
+> english	english
+> the	the
+153c144
+< years,	year
+---
+> years	year
+160,162c151,152
+< problem.	problem
+< 
+< However,	howev
+---
+> problem	problem
+> however	howev
+167c157
+< slower,	slower
+---
+> slower	slower
+171c161
+< ALPAC	alpac
+---
+> alpac	alpac
+174c164
+< 1966,	
+---
+> 	
+187c177
+< expectations,	expect
+---
+> expectations	expect
+194,196c184,185
+< reduced.	reduc
+< 
+< Little	littl
+---
+> reduced	reduc
+> little	littl
+207c196
+< 1980s,	s
+---
+> s	s
+216,219c205,207
+< developed.	develop
+< 
+< 
+< Some	some
+---
+> developed	develop
+> 	
+> some	some
+222c210
+< NLP	nlp
+---
+> nlp	nlp
+227c215
+< 1960s	s
+---
+> s	s
+229c217
+< SHRDLU,	shrdlu
+---
+> shrdlu	shrdlu
+237,238c225,226
+< "blocks	block
+< worlds"	world
+---
+> blocks	block
+> worlds	world
+241c229
+< vocabularies,	vocabulari
+---
+> vocabularies	vocabulari
+243c231
+< ELIZA,	eliza
+---
+> eliza	eliza
+248,249c236,237
+< Rogerian	rogerian
+< psychotherapist,	psychotherapist
+---
+> rogerian	rogerian
+> psychotherapist	psychotherapist
+252,253c240,241
+< Joseph	joseph
+< Weizenbaum	weizenbaum
+---
+> joseph	joseph
+> weizenbaum	weizenbaum
+255c243
+< 1964	
+---
+> 	
+257,259c245,246
+< 1966.	
+< 
+< Using	use
+---
+> 	
+> using	use
+267,268c254,255
+< emotion,	emot
+< ELIZA	eliza
+---
+> emotion	emot
+> eliza	eliza
+273,276c260,262
+< human-like	humanlik
+< interaction.	interact
+< 
+< When	when
+---
+> humanlike	humanlik
+> interaction	interact
+> when	when
+278c264
+< "patient"	patient
+---
+> patient	patient
+284,285c270,271
+< base,	base
+< ELIZA	eliza
+---
+> base	base
+> eliza	eliza
+290c276
+< response,	respons
+---
+> response	respons
+292c278
+< example,	exampl
+---
+> example	exampl
+295c281
+< "My	my
+---
+> my	my
+297c283
+< hurts"	hurt
+---
+> hurts	hurt
+299c285
+< "Why	whi
+---
+> why	whi
+305,308c291,293
+< hurts?".	hurt
+< 
+< 
+< During	dure
+---
+> hurts	hurt
+> 	
+> during	dure
+310c295
+< 1970s	s
+---
+> s	s
+316,317c301,302
+< 'conceptual	conceptu
+< ontologies',	ontolog
+---
+> conceptual	conceptu
+> ontologies	ontolog
+320c305
+< real-world	realworld
+---
+> realworld	realworld
+323,326c308,310
+< computer-understandable	computerunderstand
+< data.	data
+< 
+< Examples	exampl
+---
+> computerunderstandable	computerunderstand
+> data	data
+> examples	exampl
+328,352c312,335
+< MARGIE	margi
+< (Schank,	schank
+< 1975),	
+< SAM	sam
+< (Cullingford,	cullingford
+< 1978),	
+< PAM	pam
+< (Wilensky,	wilenski
+< 1978),	
+< TaleSpin	talespin
+< (Meehan,	meehan
+< 1976),	
+< QUALM	qualm
+< (Lehnert,	lehnert
+< 1977),	
+< Politics	polit
+< (Carbonell,	carbonel
+< 1979),	
+< and	and
+< Plot	plot
+< Units	unit
+< (Lehnert	lehnert
+< 1981).	
+< 
+< During	dure
+---
+> margie	margi
+> schank	schank
+> 	
+> sam	sam
+> cullingford	cullingford
+> 	
+> pam	pam
+> wilensky	wilenski
+> 	
+> talespin	talespin
+> meehan	meehan
+> 	
+> qualm	qualm
+> lehnert	lehnert
+> 	
+> politics	polit
+> carbonell	carbonel
+> 	
+> and	and
+> plot	plot
+> units	unit
+> lehnert	lehnert
+> 	
+> during	dure
+354c337
+< time,	time
+---
+> time	time
+360,361c343,344
+< PARRY,	parri
+< Racter,	racter
+---
+> parry	parri
+> racter	racter
+363,366c346,348
+< Jabberwacky.	jabberwacki
+< 
+< 
+< Up	up
+---
+> jabberwacky	jabberwacki
+> 	
+> up	up
+369c351
+< 1980s,	s
+---
+> s	s
+371c353
+< NLP	nlp
+---
+> nlp	nlp
+379,382c361,363
+< hand-written	handwritten
+< rules.	rule
+< 
+< Starting	start
+---
+> handwritten	handwritten
+> rules	rule
+> starting	start
+386,387c367,368
+< 1980s,	s
+< however,	howev
+---
+> s	s
+> however	howev
+393c374
+< NLP	nlp
+---
+> nlp	nlp
+403,405c384,385
+< processing.	process
+< 
+< This	thi
+---
+> processing	process
+> this	thi
+418,419c398,399
+< Moore's	moor
+< Law	law
+---
+> moores	moor
+> law	law
+428c408
+< Chomskyan	chomskyan
+---
+> chomskyan	chomskyan
+432c412
+< (e.g.	eg
+---
+> eg	eg
+434c414
+< grammar),	grammar
+---
+> grammar	grammar
+447c427
+< machine-learning	machinelearn
+---
+> machinelearning	machinelearn
+451,453c431,432
+< processing.	process
+< 
+< Some	some
+---
+> processing	process
+> some	some
+456c435
+< earliest-used	earliestus
+---
+> earliestused	earliestus
+459c438
+< algorithms,	algorithm
+---
+> algorithms	algorithm
+463c442
+< trees,	tree
+---
+> trees	tree
+468c447
+< if-then	ifthen
+---
+> ifthen	ifthen
+473,477c452,455
+< hand-written	handwritten
+< rules.	rule
+< 
+< However,	howev
+< Part	part
+---
+> handwritten	handwritten
+> rules	rule
+> however	howev
+> part	part
+485,487c463,465
+< Hidden	hidden
+< Markov	markov
+< Models	model
+---
+> hidden	hidden
+> markov	markov
+> models	model
+489c467
+< NLP,	nlp
+---
+> nlp	nlp
+491c469
+< increasingly,	increasingli
+---
+> increasingly	increasingli
+497c475
+< models,	model
+---
+> models	model
+500c478
+< soft,	soft
+---
+> soft	soft
+506c484
+< real-valued	realvalu
+---
+> realvalued	realvalu
+515,517c493,494
+< data.	data
+< 
+< The	the
+---
+> data	data
+> the	the
+534,536c511,512
+< models.	model
+< 
+< Such	such
+---
+> models	model
+> such	such
+545c521
+< input,	input
+---
+> input	input
+551c527
+< (as	as
+---
+> as	as
+556,557c532,533
+< real-world	realworld
+< data),	data
+---
+> realworld	realworld
+> data	data
+571,574c547,549
+< subtasks.	subtask
+< 
+< 
+< Many	mani
+---
+> subtasks	subtask
+> 	
+> many	mani
+586c561
+< translation,	translat
+---
+> translation	translat
+592,593c567,568
+< IBM	ibm
+< Research,	research
+---
+> ibm	ibm
+> research	research
+601,603c576,577
+< developed.	develop
+< 
+< These	these
+---
+> developed	develop
+> these	these
+621c595
+< Parliament	parliament
+---
+> parliament	parliament
+623c597
+< Canada	canada
+---
+> canada	canada
+626,627c600,601
+< European	european
+< Union	union
+---
+> european	european
+> union	union
+650,652c624,625
+< government.	govern
+< 
+< However,	howev
+---
+> government	govern
+> however	howev
+667c640
+< systems,	system
+---
+> systems	system
+670c643
+< (and	and
+---
+> and	and
+674c647
+< be)	be
+---
+> be	be
+683,685c656,657
+< systems.	system
+< 
+< As	as
+---
+> systems	system
+> as	as
+687c659
+< result,	result
+---
+> result	result
+705,708c677,679
+< data.	data
+< 
+< 
+< Recent	recent
+---
+> data	data
+> 	
+> recent	recent
+716c687
+< semi-supervised	semisupervis
+---
+> semisupervised	semisupervis
+718,720c689,690
+< algorithms.	algorithm
+< 
+< Such	such
+---
+> algorithms	algorithm
+> such	such
+732c702
+< hand-annotated	handannot
+---
+> handannotated	handannot
+736c706
+< answers,	answer
+---
+> answers	answer
+744,747c714,716
+< non-annotated	nonannot
+< data.	data
+< 
+< Generally,	gener
+---
+> nonannotated	nonannot
+> data	data
+> generally	gener
+756c725
+< learning,	learn
+---
+> learning	learn
+769,771c738,739
+< data.	data
+< 
+< However,	howev
+---
+> data	data
+> however	howev
+778c746
+< non-annotated	nonannot
+---
+> nonannotated	nonannot
+781c749
+< (including,	includ
+---
+> including	includ
+784c752
+< things,	thing
+---
+> things	thing
+790,792c758,760
+< World	world
+< Wide	wide
+< Web),	web
+---
+> world	world
+> wide	wide
+> web	web
+801,804c769,771
+< results.	result
+< 
+< 
+< NLP	nlp
+---
+> results	result
+> 	
+> nlp	nlp
+808,811c775,777
+< 
+< 
+< Modern	modern
+< NLP	nlp
+---
+> 	
+> modern	modern
+> nlp	nlp
+817c783
+< learning,	learn
+---
+> learning	learn
+821,823c787,788
+< learning.	learn
+< 
+< The	the
+---
+> learning	learn
+> the	the
+838,840c803,804
+< processing.	process
+< 
+< Prior	prior
+---
+> processing	process
+> prior	prior
+843c807
+< language-processing	languageprocess
+---
+> languageprocessing	languageprocess
+855,858c819,821
+< rules.	rule
+< 
+< The	the
+< machine-learning	machinelearn
+---
+> rules	rule
+> the	the
+> machinelearning	machinelearn
+867,868c830,831
+< -	
+< often,	often
+---
+> 	
+> often	often
+871c834
+< always,	alway
+---
+> always	alway
+876c839
+< -	
+---
+> 	
+890,893c853,855
+< real-world	realworld
+< examples.	exampl
+< 
+< A	a
+---
+> realworld	realworld
+> examples	exampl
+> a	a
+895,896c857,858
+< (plural,	plural
+< "corpora")	corpora
+---
+> plural	plural
+> corpora	corpora
+902,903c864,865
+< (or	or
+< sometimes,	sometim
+---
+> or	or
+> sometimes	sometim
+905c867
+< sentences)	sentenc
+---
+> sentences	sentenc
+909c871
+< hand-annotated	handannot
+---
+> handannotated	handannot
+916,919c878,880
+< learned.	learn
+< 
+< 
+< Many	mani
+---
+> learned	learn
+> 	
+> many	mani
+930,933c891,893
+< NLP	nlp
+< tasks.	task
+< 
+< These	these
+---
+> nlp	nlp
+> tasks	task
+> these	these
+942c902
+< "features"	featur
+---
+> features	featur
+949,951c909,910
+< data.	data
+< 
+< Some	some
+---
+> data	data
+> some	some
+954,955c913,914
+< earliest-used	earliestus
+< algorithms,	algorithm
+---
+> earliestused	earliestus
+> algorithms	algorithm
+959c918
+< trees,	tree
+---
+> trees	tree
+964c923
+< if-then	ifthen
+---
+> ifthen	ifthen
+971c930
+< hand-written	handwritten
+---
+> handwritten	handwritten
+976,979c935,937
+< common.	common
+< 
+< Increasingly,	increasingli
+< however,	howev
+---
+> common	common
+> increasingly	increasingli
+> however	howev
+985c943
+< models,	model
+---
+> models	model
+988c946
+< soft,	soft
+---
+> soft	soft
+994c952
+< real-valued	realvalu
+---
+> realvalued	realvalu
+999,1001c957,958
+< feature.	featur
+< 
+< Such	such
+---
+> feature	featur
+> such	such
+1021c978
+< one,	one
+---
+> one	one
+1038,1041c995,997
+< system.	system
+< 
+< 
+< Systems	system
+---
+> system	system
+> 	
+> systems	system
+1044c1000
+< machine-learning	machinelearn
+---
+> machinelearning	machinelearn
+1050,1054c1006,1009
+< hand-produced	handproduc
+< rules:	rule
+< 
+< 
+< The	the
+---
+> handproduced	handproduc
+> rules	rule
+> 	
+> the	the
+1067c1022
+< cases,	case
+---
+> cases	case
+1086,1088c1041,1042
+< directed.	direct
+< 
+< Automatic	automat
+---
+> directed	direct
+> automatic	automat
+1107c1061
+< (e.g.	eg
+---
+> eg	eg
+1117c1071
+< before)	befor
+---
+> before	befor
+1122c1076
+< (e.g.	eg
+---
+> eg	eg
+1129,1131c1083,1084
+< omitted).	omit
+< 
+< Generally,	gener
+---
+> omitted	omit
+> generally	gener
+1137c1090
+< hand-written	handwritten
+---
+> handwritten	handwritten
+1139c1092
+< --	
+---
+> 	
+1142c1095
+< generally,	gener
+---
+> generally	gener
+1146c1099
+< hand-written	handwritten
+---
+> handwritten	handwritten
+1152c1105
+< --	
+---
+> 	
+1154,1155c1107,1108
+< difficult,	difficult
+< error-prone	errorpron
+---
+> difficult	difficult
+> errorprone	errorpron
+1157,1159c1110,1111
+< time-consuming.	timeconsum
+< 
+< Systems	system
+---
+> timeconsuming	timeconsum
+> systems	system
+1176,1178c1128,1129
+< data.	data
+< 
+< However,	howev
+---
+> data	data
+> however	howev
+1182c1133
+< hand-written	handwritten
+---
+> handwritten	handwritten
+1196c1147
+< rules,	rule
+---
+> rules	rule
+1203,1206c1154,1156
+< task.	task
+< 
+< In	in
+< particular,	particular
+---
+> task	task
+> in	in
+> particular	particular
+1218,1219c1168,1169
+< hand-crafted	handcraft
+< rules,	rule
+---
+> handcrafted	handcraft
+> rules	rule
+1228,1230c1178,1179
+< unmanageable.	unmanag
+< 
+< However,	howev
+---
+> unmanageable	unmanag
+> however	howev
+1237c1186
+< machine-learning	machinelearn
+---
+> machinelearning	machinelearn
+1248,1249c1197,1198
+< man-hours	manhour
+< worked,	work
+---
+> manhours	manhour
+> worked	work
+1260,1262c1209,1210
+< process.	process
+< 
+< The	the
+---
+> process	process
+> the	the
+1265c1213
+< NLP	nlp
+---
+> nlp	nlp
+1273,1276c1221,1224
+< Natural	natur
+< Language	languag
+< Learning	learn
+< (NLL)	nll
+---
+> natural	natur
+> language	languag
+> learning	learn
+> nll	nll
+1280c1228
+< CoNLL	conll
+---
+> conll	conll
+1284c1232
+< SIGNLL	signll
+---
+> signll	signll
+1288c1236
+< ACL,	acl
+---
+> acl	acl
+1294,1295c1242,1243
+< Computational	comput
+< Linguistics	linguist
+---
+> computational	comput
+> linguistics	linguist
+1297,1300c1245,1247
+< Language	languag
+< Acquisition.	acquisit
+< 
+< When	when
+---
+> language	languag
+> acquisition	acquisit
+> when	when
+1315c1262
+< acquisition,	acquisit
+---
+> acquisition	acquisit
+1317,1318c1264,1265
+< psycholinguistics,	psycholinguist
+< NLL	nll
+---
+> psycholinguistics	psycholinguist
+> nll	nll
+1325,1328c1272,1274
+< Computational	comput
+< Psycholinguistics.	psycholinguist
+< 
+< 
+---
+> computational	comput
+> psycholinguistics	psycholinguist
+> 	
