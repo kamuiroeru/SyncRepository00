@@ -1,0 +1,193 @@
+../rokumura/nlp59.txt : ../rtakada/nlp59.txt
+6c6
+< a field of computer science, artificial intelligence, and linguistics concerned with the interactions between computers and human (natural) languages
+---
+> a field of computer science , artificial intelligence , and linguistics concerned with the interactions between computers and human (natural) languages
+26c26
+< natural language understanding, that is,
+---
+> natural language understanding , that is ,
+60c60
+< the ALPAC report in 1966, which found that ten year long research had failed to fulfill the expectations
+---
+> the ALPAC report in 1966 , which found that ten year long research had failed to fulfill the expectations
+71c71
+< the late 1980s, when the first statistical machine translation systems were developed
+---
+> the late 1980s , when the first statistical machine translation systems were developed
+79c79
+< SHRDLU, a natural language system working in restricted `` blocks worlds '' with restricted vocabularies
+---
+> SHRDLU , a natural language system working in restricted `` blocks worlds '' with restricted vocabularies
+87c87
+< ELIZA, a simulation of a Rogerian psychotherapist,
+---
+> ELIZA , a simulation of a Rogerian psychotherapist ,
+102c102
+< a generic response, for example, responding to `` My head hurts
+---
+> a generic response , for example , responding to `` My head hurts
+111c111
+< conceptual ontologies ', which structured real-world information into computer-understandable data
+---
+> conceptual ontologies ' , which structured real-world information into computer-understandable data
+118,119c118,119
+< MARGIE (Schank, 1975), SAM (Cullingford, 1978), PAM (Wilensky, 1978), TaleSpin (Meehan, 1976), QUALM (Lehnert, 1977), Politics (Carbonell, 1979), and Plot Units (Lehnert 1981)
+< MARGIE (Schank, 1975)
+---
+> MARGIE (Schank , 1975) , SAM (Cullingford , 1978) , PAM (Wilensky , 1978) , TaleSpin (Meehan , 1976) , QUALM (Lehnert , 1977) , Politics (Carbonell , 1979) , and Plot Units (Lehnert 1981)
+> MARGIE (Schank , 1975)
+123,124c123,124
+< SAM (Cullingford, 1978), PAM (Wilensky, 1978), TaleSpin (Meehan, 1976), QUALM (Lehnert, 1977), Politics (Carbonell, 1979), and Plot Units (Lehnert 1981)
+< SAM (Cullingford, 1978)
+---
+> SAM (Cullingford , 1978) , PAM (Wilensky , 1978) , TaleSpin (Meehan , 1976) , QUALM (Lehnert , 1977) , Politics (Carbonell , 1979) , and Plot Units (Lehnert 1981)
+> SAM (Cullingford , 1978)
+128c128
+< PAM (Wilensky, 1978)
+---
+> PAM (Wilensky , 1978)
+132c132
+< TaleSpin (Meehan, 1976)
+---
+> TaleSpin (Meehan , 1976)
+136c136
+< QUALM (Lehnert, 1977)
+---
+> QUALM (Lehnert , 1977)
+140c140
+< Politics (Carbonell, 1979)
+---
+> Politics (Carbonell , 1979)
+149c149
+< PARRY, Racter, and Jabberwacky
+---
+> PARRY , Racter , and Jabberwacky
+167c167
+< computational power resulting from Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+---
+> computational power resulting from Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar) , whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+169c169
+< Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+---
+> Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar) , whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+172c172
+< the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+---
+> the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar) , whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+188c188
+< Some of the earliest-used machine learning algorithms, such as decision trees,
+---
+> Some of the earliest-used machine learning algorithms , such as decision trees ,
+190c190
+< the earliest-used machine learning algorithms, such as decision trees,
+---
+> the earliest-used machine learning algorithms , such as decision trees ,
+192c192
+< algorithms, such as decision trees,
+---
+> algorithms , such as decision trees ,
+208c208
+< statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to the features making up the input data
+---
+> statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to the features making up the input data
+210c210
+< soft, probabilistic decisions
+---
+> soft , probabilistic decisions
+222c222
+< unfamiliar input, especially input that contains errors (as is very common for real-world data),
+---
+> unfamiliar input , especially input that contains errors (as is very common for real-world data) ,
+236c236
+< the field of machine translation, due especially to work at IBM Research, where successively more complicated statistical models were developed
+---
+> the field of machine translation , due especially to work at IBM Research , where successively more complicated statistical models were developed
+238c238
+< machine translation, due especially to work at IBM Research, where successively more complicated statistical models were developed
+---
+> machine translation , due especially to work at IBM Research , where successively more complicated statistical models were developed
+266c266
+< the tasks implemented by these systems, which was (and often continues to be)
+---
+> the tasks implemented by these systems , which was (and often continues to be)
+268c268
+< these systems, which was (and often continues to be)
+---
+> these systems , which was (and often continues to be)
+303c303
+< an enormous amount of non-annotated data available (including, among other things, the entire content of the World Wide Web), which can often make up for the inferior results
+---
+> an enormous amount of non-annotated data available (including , among other things , the entire content of the World Wide Web) , which can often make up for the inferior results
+316c316
+< machine learning, especially statistical machine learning
+---
+> machine learning , especially statistical machine learning
+344c344
+< A corpus (plural, `` corpora '')
+---
+> A corpus (plural , `` corpora '')
+346c346
+< plural, `` corpora ''
+---
+> plural , `` corpora ''
+349c349
+< a set of documents (or sometimes, individual sentences) that have been hand-annotated with the correct values to be learned
+---
+> a set of documents (or sometimes , individual sentences) that have been hand-annotated with the correct values to be learned
+351c351
+< documents (or sometimes, individual sentences) that have been hand-annotated with the correct values to be learned
+---
+> documents (or sometimes , individual sentences) that have been hand-annotated with the correct values to be learned
+366c366
+< Some of the earliest-used algorithms, such as decision trees,
+---
+> Some of the earliest-used algorithms , such as decision trees ,
+378c378
+< statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to each input feature
+---
+> statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to each input feature
+380c380
+< soft, probabilistic decisions
+---
+> soft , probabilistic decisions
+405c405
+< the most common cases, whereas when writing rules by hand it is often not obvious at all where the effort should be directed
+---
+> the most common cases , whereas when writing rules by hand it is often not obvious at all where the effort should be directed
+431c431
+< systems of hand-written rules that make soft decisions -- extremely difficult, error-prone and time-consuming
+---
+> systems of hand-written rules that make soft decisions -- extremely difficult , error-prone and time-consuming
+434c434
+< soft decisions -- extremely difficult, error-prone and time-consuming
+---
+> soft decisions -- extremely difficult , error-prone and time-consuming
+443c443
+< the complexity of the rules, which is a much more difficult task
+---
+> the complexity of the rules , which is a much more difficult task
+445c445
+< the rules, which is a much more difficult task
+---
+> the rules , which is a much more difficult task
+449c449
+< a limit to the complexity of systems based on hand-crafted rules, beyond which the systems become more and more unmanageable
+---
+> a limit to the complexity of systems based on hand-crafted rules , beyond which the systems become more and more unmanageable
+451c451
+< the complexity of systems based on hand-crafted rules, beyond which the systems become more and more unmanageable
+---
+> the complexity of systems based on hand-crafted rules , beyond which the systems become more and more unmanageable
+453c453
+< systems based on hand-crafted rules, beyond which the systems become more and more unmanageable
+---
+> systems based on hand-crafted rules , beyond which the systems become more and more unmanageable
+455c455
+< hand-crafted rules, beyond which the systems become more and more unmanageable
+---
+> hand-crafted rules , beyond which the systems become more and more unmanageable
+492c492
+< human language acquisition, or psycholinguistics
+---
+> human language acquisition , or psycholinguistics
