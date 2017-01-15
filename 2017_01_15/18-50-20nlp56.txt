@@ -1,0 +1,5 @@
+../rokumura/nlp56.txt : ../rtakada/nlp56.txt
+49c49
+< The subfield of NLP devoted to learning approaches is known as Natural Language Learning (NLL) and 「 Natural Language Learning (NLL) ( its )」 conference CoNLL and peak body SIGNLL are sponsored by ACL, recognizing also their links with Computational Linguistics and Language Acquisition.
+---
+> The subfield of NLP devoted to learning approaches is known as Natural Language Learning (NLL) and its conference CoNLL and peak body SIGNLL are sponsored by ACL, recognizing also their links with Computational Linguistics and Language Acquisition.
