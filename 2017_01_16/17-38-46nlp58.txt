@@ -1,0 +1,10 @@
+../rokumura/nlp58.txt : ../romachi/nlp58.txt
+6d5
+< ELIZA	provide	response
+7a7
+> ELIZA	provide	response
+../rokumura/nlp58.txt : ../rtakada/nlp58.txt
+6d5
+< ELIZA	provide	response
+7a7
+> ELIZA	provide	response
