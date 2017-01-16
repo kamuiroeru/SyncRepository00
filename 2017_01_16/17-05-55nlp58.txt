@@ -1,0 +1,26 @@
+../rokumura/nlp58.txt : ../rtakada/nlp58.txt
+1d0
+< understanding	enabling	computers
+2a2
+> understanding	enabling	computers
+9d8
+< underpinnings	discouraged	sort
+10a10
+> underpinnings	discouraged	sort
+19d18
+< models	have	advantage
+20a20
+> models	have	advantage
+../romachi/nlp58.txt : ../rtakada/nlp58.txt
+1d0
+< understanding	enabling	computers
+2a2
+> understanding	enabling	computers
+9d8
+< underpinnings	discouraged	sort
+10a10
+> underpinnings	discouraged	sort
+19d18
+< models	have	advantage
+20a20
+> models	have	advantage
