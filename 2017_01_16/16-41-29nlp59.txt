@@ -1,0 +1,1124 @@
+../rokumura/nlp59.txt : ../romachi/nlp59.txt
+3d2
+< the free encyclopedia Natural language processing (NLP)
+6,7c5
+< a field of computer science, artificial intelligence, and linguistics concerned with the interactions between computers and human (natural) languages
+< a field of computer science
+---
+> the free encyclopedia Natural language processing -LRB- NLP -RRB-
+9a8
+> a field of computer science
+11d9
+< linguistics concerned with the interactions between computers and human (natural) languages
+13d10
+< the interactions between computers and human (natural) languages
+15d11
+< computers and human (natural) languages
+17c13,17
+< human (natural) languages
+---
+> human -LRB- natural -RRB- languages
+> computers and human -LRB- natural -RRB- languages
+> the interactions between computers and human -LRB- natural -RRB- languages
+> linguistics concerned with the interactions between computers and human -LRB- natural -RRB- languages
+> a field of computer science , artificial intelligence , and linguistics concerned with the interactions between computers and human -LRB- natural -RRB- languages
+20d19
+< the area of humani-computer interaction
+23c22
+< Many challenges in NLP
+---
+> the area of humani-computer interaction
+26c25
+< natural language understanding, that is,
+---
+> Many challenges in NLP
+27a27
+> natural language understanding , that is ,
+33d32
+< History The history of NLP
+35a35
+> History The history of NLP
+41d40
+< an article titled `` Computing Machinery and Intelligence '' which proposed what is now called the Turing test as a criterion of intelligence
+45d43
+< a criterion of intelligence
+48c46,47
+< The Georgetown experiment in 1954
+---
+> a criterion of intelligence
+> an article titled `` Computing Machinery and Intelligence '' which proposed what is now called the Turing test as a criterion of intelligence
+51c50
+< fully automatic translation of more than sixty Russian sentences
+---
+> The Georgetown experiment in 1954
+53a53
+> fully automatic translation of more than sixty Russian sentences
+60d59
+< the ALPAC report in 1966, which found that ten year long research had failed to fulfill the expectations
+63d61
+< ten year
+65a64
+> the ALPAC report in 1966 , which found that ten year long research had failed to fulfill the expectations
+68d66
+< Little further research in machine translation
+71c69
+< the late 1980s, when the first statistical machine translation systems were developed
+---
+> Little further research in machine translation
+73d70
+< the first statistical machine translation systems
+76c73,74
+< Some notably successful NLP systems developed in the 1960s
+---
+> the first statistical machine translation systems
+> the late 1980s , when the first statistical machine translation systems were developed
+79c77
+< SHRDLU, a natural language system working in restricted `` blocks worlds '' with restricted vocabularies
+---
+> Some notably successful NLP systems developed in the 1960s
+81d78
+< a natural language system working in restricted `` blocks worlds '' with restricted vocabularies
+83d79
+< restricted `` blocks worlds ''
+85a82
+> restricted `` blocks worlds ''
+87c84,85
+< ELIZA, a simulation of a Rogerian psychotherapist,
+---
+> a natural language system working in restricted `` blocks worlds '' with restricted vocabularies
+> SHRDLU , a natural language system working in restricted `` blocks worlds '' with restricted vocabularies
+89d86
+< a simulation of a Rogerian psychotherapist
+92c89,90
+< Joseph Weizenbaum between 1964 to 1966
+---
+> a simulation of a Rogerian psychotherapist
+> ELIZA , a simulation of a Rogerian psychotherapist ,
+94a93
+> Joseph Weizenbaum between 1964 to 1966
+102d100
+< a generic response, for example, responding to `` My head hurts
+105a104
+> a generic response , for example , responding to `` My head hurts
+111,112d109
+< conceptual ontologies ', which structured real-world information into computer-understandable data
+< conceptual ontologies '
+114a112
+> conceptual ontologies '
+116a115
+> conceptual ontologies ' , which structured real-world information into computer-understandable data
+118,119d116
+< MARGIE (Schank, 1975), SAM (Cullingford, 1978), PAM (Wilensky, 1978), TaleSpin (Meehan, 1976), QUALM (Lehnert, 1977), Politics (Carbonell, 1979), and Plot Units (Lehnert 1981)
+< MARGIE (Schank, 1975)
+123,124c120
+< SAM (Cullingford, 1978), PAM (Wilensky, 1978), TaleSpin (Meehan, 1976), QUALM (Lehnert, 1977), Politics (Carbonell, 1979), and Plot Units (Lehnert 1981)
+< SAM (Cullingford, 1978)
+---
+> MARGIE -LRB- Schank , 1975 -RRB-
+128c124
+< PAM (Wilensky, 1978)
+---
+> SAM -LRB- Cullingford , 1978 -RRB-
+132c128
+< TaleSpin (Meehan, 1976)
+---
+> PAM -LRB- Wilensky , 1978 -RRB-
+136c132
+< QUALM (Lehnert, 1977)
+---
+> TaleSpin -LRB- Meehan , 1976 -RRB-
+140c136
+< Politics (Carbonell, 1979)
+---
+> QUALM -LRB- Lehnert , 1977 -RRB-
+144c140
+< Plot Units (Lehnert 1981)
+---
+> Politics -LRB- Carbonell , 1979 -RRB-
+146a143,145
+> Plot Units -LRB- Lehnert 1981 -RRB-
+> SAM -LRB- Cullingford , 1978 -RRB- , PAM -LRB- Wilensky , 1978 -RRB- , TaleSpin -LRB- Meehan , 1976 -RRB- , QUALM -LRB- Lehnert , 1977 -RRB- , Politics -LRB- Carbonell , 1979 -RRB- , and Plot Units -LRB- Lehnert 1981 -RRB-
+> MARGIE -LRB- Schank , 1975 -RRB- , SAM -LRB- Cullingford , 1978 -RRB- , PAM -LRB- Wilensky , 1978 -RRB- , TaleSpin -LRB- Meehan , 1976 -RRB- , QUALM -LRB- Lehnert , 1977 -RRB- , Politics -LRB- Carbonell , 1979 -RRB- , and Plot Units -LRB- Lehnert 1981 -RRB-
+149c148
+< PARRY, Racter, and Jabberwacky
+---
+> PARRY , Racter , and Jabberwacky
+152d150
+< complex sets of hand-written rules
+154a153
+> complex sets of hand-written rules
+157d155
+< a revolution in NLP
+160c158
+< the introduction of machine learning algorithms for language processing
+---
+> a revolution in NLP
+162d159
+< machine learning algorithms for language processing
+164a162,163
+> machine learning algorithms for language processing
+> the introduction of machine learning algorithms for language processing
+167d165
+< computational power resulting from Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+169,170d166
+< Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+< Moore 's Law
+172c168
+< the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+---
+> Moore 's Law
+174d169
+< the dominance of Chomskyan theories
+177c172
+< linguistics (e.g. transformational grammar)
+---
+> the dominance of Chomskyan theories
+179d173
+< e.g. transformational grammar
+181a176,177
+> e.g. transformational grammar
+> linguistics -LRB- e.g. transformational grammar -RRB-
+183d178
+< the sort of corpus linguistics that underlies the machine-learning approach to language processing
+188c183,186
+< Some of the earliest-used machine learning algorithms, such as decision trees,
+---
+> the sort of corpus linguistics that underlies the machine-learning approach to language processing
+> the gradual lessening of the dominance of Chomskyan theories of linguistics -LRB- e.g. transformational grammar -RRB- , whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+> Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics -LRB- e.g. transformational grammar -RRB- , whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+> computational power resulting from Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics -LRB- e.g. transformational grammar -RRB- , whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+190d187
+< the earliest-used machine learning algorithms, such as decision trees,
+192d188
+< algorithms, such as decision trees,
+195c191,193
+< systems of hard if-then rules similar to existing hand-written rules
+---
+> algorithms , such as decision trees ,
+> the earliest-used machine learning algorithms , such as decision trees ,
+> Some of the earliest-used machine learning algorithms , such as decision trees ,
+197d194
+< hard if-then rules similar to existing hand-written rules
+200c197,198
+< Part of speech
+---
+> hard if-then rules similar to existing hand-written rules
+> systems of hard if-then rules similar to existing hand-written rules
+203c201
+< the use of Hidden Markov Models
+---
+> Part of speech
+205a204
+> the use of Hidden Markov Models
+208d206
+< statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to the features making up the input data
+210c208
+< soft, probabilistic decisions
+---
+> soft , probabilistic decisions
+212d209
+< the features making up the input data
+215c212,213
+< The cache language models upon which many speech recognition systems now rely
+---
+> the features making up the input data
+> statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to the features making up the input data
+218c216
+< examples of such statistical models
+---
+> The cache language models upon which many speech recognition systems now rely
+220a219
+> examples of such statistical models
+222d220
+< unfamiliar input, especially input that contains errors (as is very common for real-world data),
+224d221
+< input that contains errors (as is very common for real-world data)
+226d222
+< errors (as is very common for real-world data)
+228a225,227
+> errors -LRB- as is very common for real-world data -RRB-
+> input that contains errors -LRB- as is very common for real-world data -RRB-
+> unfamiliar input , especially input that contains errors -LRB- as is very common for real-world data -RRB- ,
+230d228
+< a larger system comprising multiple subtasks
+233c231
+< Many of the notable early successes
+---
+> a larger system comprising multiple subtasks
+236c234
+< the field of machine translation, due especially to work at IBM Research, where successively more complicated statistical models were developed
+---
+> Many of the notable early successes
+238d235
+< machine translation, due especially to work at IBM Research, where successively more complicated statistical models were developed
+241a239,240
+> machine translation , due especially to work at IBM Research , where successively more complicated statistical models were developed
+> the field of machine translation , due especially to work at IBM Research , where successively more complicated statistical models were developed
+243d241
+< advantage of existing multilingual textual corpora that had been produced by the Parliament of Canada and the European Union as a result of laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+245d242
+< existing multilingual textual corpora that had been produced by the Parliament of Canada and the European Union as a result of laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+247d243
+< the Parliament of Canada and the European Union
+249d244
+< Canada and the European Union
+252c247,248
+< a result of laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+---
+> Canada and the European Union
+> the Parliament of Canada and the European Union
+254d249
+< laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+256d250
+< the translation of all governmental proceedings
+259c253
+< all official languages of the corresponding systems of government
+---
+> the translation of all governmental proceedings
+261d254
+< the corresponding systems of government
+263a257,262
+> the corresponding systems of government
+> all official languages of the corresponding systems of government
+> laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+> a result of laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+> existing multilingual textual corpora that had been produced by the Parliament of Canada and the European Union as a result of laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+> advantage of existing multilingual textual corpora that had been produced by the Parliament of Canada and the European Union as a result of laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+266d264
+< the tasks implemented by these systems, which was (and often continues to be)
+268d265
+< these systems, which was (and often continues to be)
+270c267,268
+< a major limitation in the success of these systems
+---
+> these systems , which was -LRB- and often continues to be -RRB-
+> the tasks implemented by these systems , which was -LRB- and often continues to be -RRB-
+272d269
+< the success of these systems
+274a272,273
+> the success of these systems
+> a major limitation in the success of these systems
+276d274
+< a great deal of research
+279c277
+< methods of more effectively learning from limited amounts of data
+---
+> a great deal of research
+281d278
+< more effectively learning from limited amounts of data
+283d279
+< limited amounts of data
+285a282,284
+> limited amounts of data
+> more effectively learning from limited amounts of data
+> methods of more effectively learning from limited amounts of data
+289d287
+< data that has not been hand-annotated with the desired answers
+292c290
+< a combination of annotated and non-annotated data
+---
+> data that has not been hand-annotated with the desired answers
+294a293
+> a combination of annotated and non-annotated data
+297d295
+< less accurate results for a given amount of input data
+299d296
+< a given amount of input data
+301a299,300
+> a given amount of input data
+> less accurate results for a given amount of input data
+303,304d301
+< an enormous amount of non-annotated data available (including, among other things, the entire content of the World Wide Web), which can often make up for the inferior results
+< an enormous amount of non-annotated data available
+306d302
+< non-annotated data available
+307a304,305
+> non-annotated data available
+> an enormous amount of non-annotated data available
+309d306
+< the entire content of the World Wide Web
+311a309
+> the entire content of the World Wide Web
+313c311
+< NLP using machine learning Modern NLP algorithms
+---
+> an enormous amount of non-annotated data available -LRB- including , among other things , the entire content of the World Wide Web -RRB- , which can often make up for the inferior results
+316c314
+< machine learning, especially statistical machine learning
+---
+> NLP using machine learning Modern NLP algorithms
+319c317
+< The paradigm of machine learning
+---
+> machine learning , especially statistical machine learning
+322c320
+< that of most prior attempts
+---
+> The paradigm of machine learning
+324a323
+> that of most prior attempts
+326d324
+< implementations of language-processing tasks
+329c327
+< the direct hand coding of large sets of rules
+---
+> implementations of language-processing tasks
+331d328
+< large sets of rules
+333a331,332
+> large sets of rules
+> the direct hand coding of large sets of rules
+335d333
+< general learning algorithms - often
+336a335
+> general learning algorithms - often
+339d337
+< the analysis of large corpora of typical real-world examples
+341d338
+< large corpora of typical real-world examples
+344c341,342
+< A corpus (plural, `` corpora '')
+---
+> large corpora of typical real-world examples
+> the analysis of large corpora of typical real-world examples
+346d343
+< plural, `` corpora ''
+349c346,347
+< a set of documents (or sometimes, individual sentences) that have been hand-annotated with the correct values to be learned
+---
+> plural , `` corpora ''
+> A corpus -LRB- plural , `` corpora '' -RRB-
+351d348
+< documents (or sometimes, individual sentences) that have been hand-annotated with the correct values to be learned
+355c352,353
+< Many different classes of machine learning algorithms
+---
+> documents -LRB- or sometimes , individual sentences -RRB- that have been hand-annotated with the correct values to be learned
+> a set of documents -LRB- or sometimes , individual sentences -RRB- that have been hand-annotated with the correct values to be learned
+357a356
+> Many different classes of machine learning algorithms
+361d359
+< a large set of `` features '' that are generated from the input data
+363d360
+< `` features '' that are generated from the input data
+366c363,364
+< Some of the earliest-used algorithms, such as decision trees,
+---
+> `` features '' that are generated from the input data
+> a large set of `` features '' that are generated from the input data
+370c368
+< systems of hard if-then rules similar to the systems of hand-written rules that were then common
+---
+> Some of the earliest-used algorithms , such as decision trees ,
+372d369
+< hard if-then rules similar to the systems of hand-written rules that were then common
+374d370
+< the systems of hand-written rules that were then common
+376a373,375
+> the systems of hand-written rules that were then common
+> hard if-then rules similar to the systems of hand-written rules that were then common
+> systems of hard if-then rules similar to the systems of hand-written rules that were then common
+378d376
+< statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to each input feature
+380c378
+< soft, probabilistic decisions
+---
+> soft , probabilistic decisions
+382a381
+> statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to each input feature
+386d384
+< the relative certainty of many different possible answers rather than only one
+388d385
+< many different possible answers rather than only one
+390a388,389
+> many different possible answers rather than only one
+> the relative certainty of many different possible answers rather than only one
+393d391
+< a component of a larger system
+396c394
+< Systems based on machine-learning algorithms
+---
+> a component of a larger system
+399c397
+< many advantages over hand-produced rules
+---
+> Systems based on machine-learning algorithms
+402c400
+< The learning procedures used during machine learning
+---
+> many advantages over hand-produced rules
+405c403
+< the most common cases, whereas when writing rules by hand it is often not obvious at all where the effort should be directed
+---
+> The learning procedures used during machine learning
+412c410
+< Automatic learning procedures
+---
+> the most common cases , whereas when writing rules by hand it is often not obvious at all where the effort should be directed
+415c413
+< use of statistical inference algorithms
+---
+> Automatic learning procedures
+418c416
+< models that are robust to unfamiliar input (e.g. containing words or structures that have not been seen before) and to erroneous input (e.g. with misspelled words or words accidentally omitted)
+---
+> use of statistical inference algorithms
+421d418
+< words or structures that have not been seen before
+423,424c420
+< erroneous input (e.g. with misspelled words or words accidentally omitted)
+< e.g. with misspelled words or words accidentally omitted
+---
+> words or structures that have not been seen before
+426d421
+< words or words accidentally omitted
+428c423,426
+< such input gracefully with hand-written rules -- or more
+---
+> words or words accidentally omitted
+> e.g. with misspelled words or words accidentally omitted
+> erroneous input -LRB- e.g. with misspelled words or words accidentally omitted -RRB-
+> models that are robust to unfamiliar input -LRB- e.g. containing words or structures that have not been seen before -RRB- and to erroneous input -LRB- e.g. with misspelled words or words accidentally omitted -RRB-
+431c429
+< systems of hand-written rules that make soft decisions -- extremely difficult, error-prone and time-consuming
+---
+> such input gracefully with hand-written rules -- or more
+434d431
+< soft decisions -- extremely difficult, error-prone and time-consuming
+436c433,434
+< Systems based on automatically learning the rules
+---
+> soft decisions -- extremely difficult , error-prone and time-consuming
+> systems of hand-written rules that make soft decisions -- extremely difficult , error-prone and time-consuming
+438a437
+> Systems based on automatically learning the rules
+440d438
+< systems based on hand-written rules
+443c441
+< the complexity of the rules, which is a much more difficult task
+---
+> systems based on hand-written rules
+445d442
+< the rules, which is a much more difficult task
+447a445,446
+> the rules , which is a much more difficult task
+> the complexity of the rules , which is a much more difficult task
+449d447
+< a limit to the complexity of systems based on hand-crafted rules, beyond which the systems become more and more unmanageable
+451d448
+< the complexity of systems based on hand-crafted rules, beyond which the systems become more and more unmanageable
+453d449
+< systems based on hand-crafted rules, beyond which the systems become more and more unmanageable
+455d450
+< hand-crafted rules, beyond which the systems become more and more unmanageable
+457a453,456
+> hand-crafted rules , beyond which the systems become more and more unmanageable
+> systems based on hand-crafted rules , beyond which the systems become more and more unmanageable
+> the complexity of systems based on hand-crafted rules , beyond which the systems become more and more unmanageable
+> a limit to the complexity of systems based on hand-crafted rules , beyond which the systems become more and more unmanageable
+461d459
+< a corresponding increase in the number of man-hours
+463d460
+< the number of man-hours
+466c463,464
+< significant increases in the complexity of the annotation process
+---
+> the number of man-hours
+> a corresponding increase in the number of man-hours
+468d465
+< the complexity of the annotation process
+471c468,469
+< The subfield of NLP devoted to learning approaches is known as Natural Language Learning (NLL) and its conference CoNLL and peak body SIGNLL
+---
+> the complexity of the annotation process
+> significant increases in the complexity of the annotation process
+473d470
+< NLP devoted to learning approaches is known as Natural Language Learning (NLL) and its conference CoNLL and peak body SIGNLL
+476d472
+< Natural Language Learning (NLL)
+478a475
+> Natural Language Learning -LRB- NLL -RRB-
+480a478,479
+> NLP devoted to learning approaches is known as Natural Language Learning -LRB- NLL -RRB- and its conference CoNLL and peak body SIGNLL
+> The subfield of NLP devoted to learning approaches is known as Natural Language Learning -LRB- NLL -RRB- and its conference CoNLL and peak body SIGNLL
+483d481
+< Computational Linguistics and Language Acquisition
+486c484
+< the aims of computational language learning research
+---
+> Computational Linguistics and Language Acquisition
+488d485
+< computational language learning research
+490a488,489
+> computational language learning research
+> the aims of computational language learning research
+492d490
+< human language acquisition, or psycholinguistics
+494a493
+> human language acquisition , or psycholinguistics
+496d494
+< the related field of Computational Psycholinguistics
+498a497
+> the related field of Computational Psycholinguistics
+../romachi/nlp59.txt : ../rtakada/nlp59.txt
+2a3
+> the free encyclopedia Natural language processing (NLP)
+5c6,7
+< the free encyclopedia Natural language processing -LRB- NLP -RRB-
+---
+> a field of computer science, artificial intelligence, and linguistics concerned with the interactions between computers and human (natural) languages
+> a field of computer science
+8d9
+< a field of computer science
+9a11
+> linguistics concerned with the interactions between computers and human (natural) languages
+10a13
+> the interactions between computers and human (natural) languages
+11a15
+> computers and human (natural) languages
+13,17c17
+< human -LRB- natural -RRB- languages
+< computers and human -LRB- natural -RRB- languages
+< the interactions between computers and human -LRB- natural -RRB- languages
+< linguistics concerned with the interactions between computers and human -LRB- natural -RRB- languages
+< a field of computer science , artificial intelligence , and linguistics concerned with the interactions between computers and human -LRB- natural -RRB- languages
+---
+> human (natural) languages
+19a20
+> the area of humani-computer interaction
+22c23
+< the area of humani-computer interaction
+---
+> Many challenges in NLP
+25c26
+< Many challenges in NLP
+---
+> natural language understanding, that is,
+27d27
+< natural language understanding , that is ,
+32a33
+> History The history of NLP
+35d35
+< History The history of NLP
+40a41
+> an article titled `` Computing Machinery and Intelligence '' which proposed what is now called the Turing test as a criterion of intelligence
+43a45
+> a criterion of intelligence
+46,47c48
+< a criterion of intelligence
+< an article titled `` Computing Machinery and Intelligence '' which proposed what is now called the Turing test as a criterion of intelligence
+---
+> The Georgetown experiment in 1954
+50c51
+< The Georgetown experiment in 1954
+---
+> fully automatic translation of more than sixty Russian sentences
+53d53
+< fully automatic translation of more than sixty Russian sentences
+59a60
+> the ALPAC report in 1966, which found that ten year long research had failed to fulfill the expectations
+61a63
+> ten year
+64d65
+< the ALPAC report in 1966 , which found that ten year long research had failed to fulfill the expectations
+66a68
+> Little further research in machine translation
+69c71
+< Little further research in machine translation
+---
+> the late 1980s, when the first statistical machine translation systems were developed
+70a73
+> the first statistical machine translation systems
+73,74c76
+< the first statistical machine translation systems
+< the late 1980s , when the first statistical machine translation systems were developed
+---
+> Some notably successful NLP systems developed in the 1960s
+77c79
+< Some notably successful NLP systems developed in the 1960s
+---
+> SHRDLU, a natural language system working in restricted `` blocks worlds '' with restricted vocabularies
+78a81
+> a natural language system working in restricted `` blocks worlds '' with restricted vocabularies
+79a83
+> restricted `` blocks worlds ''
+82d85
+< restricted `` blocks worlds ''
+84,85c87
+< a natural language system working in restricted `` blocks worlds '' with restricted vocabularies
+< SHRDLU , a natural language system working in restricted `` blocks worlds '' with restricted vocabularies
+---
+> ELIZA, a simulation of a Rogerian psychotherapist,
+86a89
+> a simulation of a Rogerian psychotherapist
+89,90c92
+< a simulation of a Rogerian psychotherapist
+< ELIZA , a simulation of a Rogerian psychotherapist ,
+---
+> Joseph Weizenbaum between 1964 to 1966
+93d94
+< Joseph Weizenbaum between 1964 to 1966
+100a102
+> a generic response, for example, responding to `` My head hurts
+104d105
+< a generic response , for example , responding to `` My head hurts
+109a111,112
+> conceptual ontologies ', which structured real-world information into computer-understandable data
+> conceptual ontologies '
+112d114
+< conceptual ontologies '
+115d116
+< conceptual ontologies ' , which structured real-world information into computer-understandable data
+116a118,119
+> MARGIE (Schank, 1975), SAM (Cullingford, 1978), PAM (Wilensky, 1978), TaleSpin (Meehan, 1976), QUALM (Lehnert, 1977), Politics (Carbonell, 1979), and Plot Units (Lehnert 1981)
+> MARGIE (Schank, 1975)
+120c123,124
+< MARGIE -LRB- Schank , 1975 -RRB-
+---
+> SAM (Cullingford, 1978), PAM (Wilensky, 1978), TaleSpin (Meehan, 1976), QUALM (Lehnert, 1977), Politics (Carbonell, 1979), and Plot Units (Lehnert 1981)
+> SAM (Cullingford, 1978)
+124c128
+< SAM -LRB- Cullingford , 1978 -RRB-
+---
+> PAM (Wilensky, 1978)
+128c132
+< PAM -LRB- Wilensky , 1978 -RRB-
+---
+> TaleSpin (Meehan, 1976)
+132c136
+< TaleSpin -LRB- Meehan , 1976 -RRB-
+---
+> QUALM (Lehnert, 1977)
+136c140
+< QUALM -LRB- Lehnert , 1977 -RRB-
+---
+> Politics (Carbonell, 1979)
+140c144
+< Politics -LRB- Carbonell , 1979 -RRB-
+---
+> Plot Units (Lehnert 1981)
+143,145d146
+< Plot Units -LRB- Lehnert 1981 -RRB-
+< SAM -LRB- Cullingford , 1978 -RRB- , PAM -LRB- Wilensky , 1978 -RRB- , TaleSpin -LRB- Meehan , 1976 -RRB- , QUALM -LRB- Lehnert , 1977 -RRB- , Politics -LRB- Carbonell , 1979 -RRB- , and Plot Units -LRB- Lehnert 1981 -RRB-
+< MARGIE -LRB- Schank , 1975 -RRB- , SAM -LRB- Cullingford , 1978 -RRB- , PAM -LRB- Wilensky , 1978 -RRB- , TaleSpin -LRB- Meehan , 1976 -RRB- , QUALM -LRB- Lehnert , 1977 -RRB- , Politics -LRB- Carbonell , 1979 -RRB- , and Plot Units -LRB- Lehnert 1981 -RRB-
+148c149
+< PARRY , Racter , and Jabberwacky
+---
+> PARRY, Racter, and Jabberwacky
+150a152
+> complex sets of hand-written rules
+153d154
+< complex sets of hand-written rules
+155a157
+> a revolution in NLP
+158c160
+< a revolution in NLP
+---
+> the introduction of machine learning algorithms for language processing
+159a162
+> machine learning algorithms for language processing
+162,163d164
+< machine learning algorithms for language processing
+< the introduction of machine learning algorithms for language processing
+165a167
+> computational power resulting from Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+167c169
+< Moore 's
+---
+> Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+168a171,172
+> Moore 's
+> the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+169a174
+> the dominance of Chomskyan theories
+172c177
+< the dominance of Chomskyan theories
+---
+> linguistics (e.g. transformational grammar)
+173a179
+> e.g. transformational grammar
+176,177d181
+< e.g. transformational grammar
+< linguistics -LRB- e.g. transformational grammar -RRB-
+178a183
+> the sort of corpus linguistics that underlies the machine-learning approach to language processing
+183,186c188
+< the sort of corpus linguistics that underlies the machine-learning approach to language processing
+< the gradual lessening of the dominance of Chomskyan theories of linguistics -LRB- e.g. transformational grammar -RRB- , whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+< Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics -LRB- e.g. transformational grammar -RRB- , whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+< computational power resulting from Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics -LRB- e.g. transformational grammar -RRB- , whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+---
+> Some of the earliest-used machine learning algorithms, such as decision trees,
+187a190
+> the earliest-used machine learning algorithms, such as decision trees,
+188a192
+> algorithms, such as decision trees,
+191,193c195
+< algorithms , such as decision trees ,
+< the earliest-used machine learning algorithms , such as decision trees ,
+< Some of the earliest-used machine learning algorithms , such as decision trees ,
+---
+> systems of hard if-then rules similar to existing hand-written rules
+194a197
+> hard if-then rules similar to existing hand-written rules
+197,198c200
+< hard if-then rules similar to existing hand-written rules
+< systems of hard if-then rules similar to existing hand-written rules
+---
+> Part of speech
+201c203
+< Part of speech
+---
+> the use of Hidden Markov Models
+204d205
+< the use of Hidden Markov Models
+206a208
+> statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to the features making up the input data
+208c210
+< soft , probabilistic decisions
+---
+> soft, probabilistic decisions
+209a212
+> the features making up the input data
+212,213c215
+< the features making up the input data
+< statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to the features making up the input data
+---
+> The cache language models upon which many speech recognition systems now rely
+216c218
+< The cache language models upon which many speech recognition systems now rely
+---
+> examples of such statistical models
+219d220
+< examples of such statistical models
+220a222
+> unfamiliar input, especially input that contains errors (as is very common for real-world data),
+221a224
+> input that contains errors (as is very common for real-world data)
+222a226
+> errors (as is very common for real-world data)
+225,227d228
+< errors -LRB- as is very common for real-world data -RRB-
+< input that contains errors -LRB- as is very common for real-world data -RRB-
+< unfamiliar input , especially input that contains errors -LRB- as is very common for real-world data -RRB- ,
+228a230
+> a larger system comprising multiple subtasks
+231c233
+< a larger system comprising multiple subtasks
+---
+> Many of the notable early successes
+234c236
+< Many of the notable early successes
+---
+> the field of machine translation, due especially to work at IBM Research, where successively more complicated statistical models were developed
+235a238
+> machine translation, due especially to work at IBM Research, where successively more complicated statistical models were developed
+239,240d241
+< machine translation , due especially to work at IBM Research , where successively more complicated statistical models were developed
+< the field of machine translation , due especially to work at IBM Research , where successively more complicated statistical models were developed
+241a243
+> advantage of existing multilingual textual corpora that had been produced by the Parliament of Canada and the European Union as a result of laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+242a245
+> existing multilingual textual corpora that had been produced by the Parliament of Canada and the European Union as a result of laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+243a247
+> the Parliament of Canada and the European Union
+244a249
+> Canada and the European Union
+247,248c252
+< Canada and the European Union
+< the Parliament of Canada and the European Union
+---
+> a result of laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+249a254
+> laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+250a256
+> the translation of all governmental proceedings
+253c259
+< the translation of all governmental proceedings
+---
+> all official languages of the corresponding systems of government
+254a261
+> the corresponding systems of government
+257,262d263
+< the corresponding systems of government
+< all official languages of the corresponding systems of government
+< laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+< a result of laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+< existing multilingual textual corpora that had been produced by the Parliament of Canada and the European Union as a result of laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+< advantage of existing multilingual textual corpora that had been produced by the Parliament of Canada and the European Union as a result of laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government
+264a266
+> the tasks implemented by these systems, which was (and often continues to be)
+265a268
+> these systems, which was (and often continues to be)
+267,268c270
+< these systems , which was -LRB- and often continues to be -RRB-
+< the tasks implemented by these systems , which was -LRB- and often continues to be -RRB-
+---
+> a major limitation in the success of these systems
+269a272
+> the success of these systems
+272,273d274
+< the success of these systems
+< a major limitation in the success of these systems
+274a276
+> a great deal of research
+277c279
+< a great deal of research
+---
+> methods of more effectively learning from limited amounts of data
+278a281
+> more effectively learning from limited amounts of data
+279a283
+> limited amounts of data
+282,284d285
+< limited amounts of data
+< more effectively learning from limited amounts of data
+< methods of more effectively learning from limited amounts of data
+287a289
+> data that has not been hand-annotated with the desired answers
+290c292
+< data that has not been hand-annotated with the desired answers
+---
+> a combination of annotated and non-annotated data
+293d294
+< a combination of annotated and non-annotated data
+295a297
+> less accurate results for a given amount of input data
+296a299
+> a given amount of input data
+299,300d301
+< a given amount of input data
+< less accurate results for a given amount of input data
+301a303,304
+> an enormous amount of non-annotated data available (including, among other things, the entire content of the World Wide Web), which can often make up for the inferior results
+> an enormous amount of non-annotated data available
+303d305
+< non-annotated data
+305c307
+< an enormous amount of non-annotated data available
+---
+> non-annotated data
+306a309
+> the entire content of the World Wide Web
+309d311
+< the entire content of the World Wide Web
+311c313
+< an enormous amount of non-annotated data available -LRB- including , among other things , the entire content of the World Wide Web -RRB- , which can often make up for the inferior results
+---
+> NLP using machine learning Modern NLP algorithms
+314c316
+< NLP using machine learning Modern NLP algorithms
+---
+> machine learning, especially statistical machine learning
+317c319
+< machine learning , especially statistical machine learning
+---
+> The paradigm of machine learning
+320c322
+< The paradigm of machine learning
+---
+> that of most prior attempts
+323d324
+< that of most prior attempts
+324a326
+> implementations of language-processing tasks
+327c329
+< implementations of language-processing tasks
+---
+> the direct hand coding of large sets of rules
+328a331
+> large sets of rules
+331,332d333
+< large sets of rules
+< the direct hand coding of large sets of rules
+334d334
+< general learning algorithms
+335a336
+> general learning algorithms
+337a339
+> the analysis of large corpora of typical real-world examples
+338a341
+> large corpora of typical real-world examples
+341,342c344
+< large corpora of typical real-world examples
+< the analysis of large corpora of typical real-world examples
+---
+> A corpus (plural, `` corpora '')
+343a346
+> plural, `` corpora ''
+346,347c349
+< plural , `` corpora ''
+< A corpus -LRB- plural , `` corpora '' -RRB-
+---
+> a set of documents (or sometimes, individual sentences) that have been hand-annotated with the correct values to be learned
+348a351
+> documents (or sometimes, individual sentences) that have been hand-annotated with the correct values to be learned
+352,353c355
+< documents -LRB- or sometimes , individual sentences -RRB- that have been hand-annotated with the correct values to be learned
+< a set of documents -LRB- or sometimes , individual sentences -RRB- that have been hand-annotated with the correct values to be learned
+---
+> Many different classes of machine learning algorithms
+356d357
+< Many different classes of machine learning algorithms
+359a361
+> a large set of `` features '' that are generated from the input data
+360a363
+> `` features '' that are generated from the input data
+363,364c366
+< `` features '' that are generated from the input data
+< a large set of `` features '' that are generated from the input data
+---
+> Some of the earliest-used algorithms, such as decision trees,
+368c370
+< Some of the earliest-used algorithms , such as decision trees ,
+---
+> systems of hard if-then rules similar to the systems of hand-written rules that were then common
+369a372
+> hard if-then rules similar to the systems of hand-written rules that were then common
+370a374
+> the systems of hand-written rules that were then common
+373,375d376
+< the systems of hand-written rules that were then common
+< hard if-then rules similar to the systems of hand-written rules that were then common
+< systems of hard if-then rules similar to the systems of hand-written rules that were then common
+376a378
+> statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to each input feature
+378c380
+< soft , probabilistic decisions
+---
+> soft, probabilistic decisions
+381d382
+< statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to each input feature
+384a386
+> the relative certainty of many different possible answers rather than only one
+385a388
+> many different possible answers rather than only one
+388,389d390
+< many different possible answers rather than only one
+< the relative certainty of many different possible answers rather than only one
+391a393
+> a component of a larger system
+394c396
+< a component of a larger system
+---
+> Systems based on machine-learning algorithms
+397c399
+< Systems based on machine-learning algorithms
+---
+> many advantages over hand-produced rules
+400c402
+< many advantages over hand-produced rules
+---
+> The learning procedures used during machine learning
+403c405
+< The learning procedures used during machine learning
+---
+> the most common cases, whereas when writing rules by hand it is often not obvious at all where the effort should be directed
+410c412
+< the most common cases , whereas when writing rules by hand it is often not obvious at all where the effort should be directed
+---
+> Automatic learning procedures
+413c415
+< Automatic learning procedures
+---
+> use of statistical inference algorithms
+416c418
+< use of statistical inference algorithms
+---
+> models that are robust to unfamiliar input (e.g. containing words or structures that have not been seen before) and to erroneous input (e.g. with misspelled words or words accidentally omitted)
+419d420
+< words or structures
+420a422,424
+> words or structures
+> erroneous input (e.g. with misspelled words or words accidentally omitted)
+> e.g. with misspelled words or words accidentally omitted
+422d425
+< words or words
+424,426c427,428
+< e.g. with misspelled words or words accidentally omitted
+< erroneous input -LRB- e.g. with misspelled words or words accidentally omitted -RRB-
+< models that are robust to unfamiliar input -LRB- e.g. containing words or structures that have not been seen before -RRB- and to erroneous input -LRB- e.g. with misspelled words or words accidentally omitted -RRB-
+---
+> words or words
+> such input gracefully with hand-written rules -- or more
+429c431
+< such input gracefully with hand-written rules -- or more
+---
+> systems of hand-written rules that make soft decisions -- extremely difficult, error-prone and time-consuming
+431a434
+> soft decisions -- extremely difficult, error-prone and time-consuming
+433,434c436
+< soft decisions -- extremely difficult , error-prone and time-consuming
+< systems of hand-written rules that make soft decisions -- extremely difficult , error-prone and time-consuming
+---
+> Systems based on automatically learning the rules
+437d438
+< Systems based on automatically learning the rules
+438a440
+> systems based on hand-written rules
+441c443
+< systems based on hand-written rules
+---
+> the complexity of the rules, which is a much more difficult task
+442a445
+> the rules, which is a much more difficult task
+445,446d447
+< the rules , which is a much more difficult task
+< the complexity of the rules , which is a much more difficult task
+447a449
+> a limit to the complexity of systems based on hand-crafted rules, beyond which the systems become more and more unmanageable
+448a451
+> the complexity of systems based on hand-crafted rules, beyond which the systems become more and more unmanageable
+449a453
+> systems based on hand-crafted rules, beyond which the systems become more and more unmanageable
+450a455
+> hand-crafted rules, beyond which the systems become more and more unmanageable
+453,456d457
+< hand-crafted rules , beyond which the systems become more and more unmanageable
+< systems based on hand-crafted rules , beyond which the systems become more and more unmanageable
+< the complexity of systems based on hand-crafted rules , beyond which the systems become more and more unmanageable
+< a limit to the complexity of systems based on hand-crafted rules , beyond which the systems become more and more unmanageable
+459a461
+> a corresponding increase in the number of man-hours
+460a463
+> the number of man-hours
+463,464c466
+< the number of man-hours
+< a corresponding increase in the number of man-hours
+---
+> significant increases in the complexity of the annotation process
+465a468
+> the complexity of the annotation process
+468,469c471
+< the complexity of the annotation process
+< significant increases in the complexity of the annotation process
+---
+> The subfield of NLP devoted to learning approaches is known as Natural Language Learning (NLL) and its conference CoNLL and peak body SIGNLL
+470a473
+> NLP devoted to learning approaches is known as Natural Language Learning (NLL) and its conference CoNLL and peak body SIGNLL
+472a476
+> Natural Language Learning (NLL)
+475d478
+< Natural Language Learning -LRB- NLL -RRB-
+478,479d480
+< NLP devoted to learning approaches is known as Natural Language Learning -LRB- NLL -RRB- and its conference CoNLL and peak body SIGNLL
+< The subfield of NLP devoted to learning approaches is known as Natural Language Learning -LRB- NLL -RRB- and its conference CoNLL and peak body SIGNLL
+481a483
+> Computational Linguistics and Language Acquisition
+484c486
+< Computational Linguistics and Language Acquisition
+---
+> the aims of computational language learning research
+485a488
+> computational language learning research
+488,489d490
+< computational language learning research
+< the aims of computational language learning research
+490a492
+> human language acquisition, or psycholinguistics
+493d494
+< human language acquisition , or psycholinguistics
+494a496
+> the related field of Computational Psycholinguistics
+497d498
+< the related field of Computational Psycholinguistics
