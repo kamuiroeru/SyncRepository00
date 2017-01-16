@@ -1,0 +1,34 @@
+../rokumura/nlp56.txt : ../romachi/nlp56.txt
+12c12
+< When the `` patient '' exceeded the very small knowledge base, 「 ELIZA ( ELIZA )」 might provide a generic response, for example, responding to `` 「 the `` patient '' ( My )」 head hurts '' with `` Why do you say 「 you ( 「 My head ( your )」 head )」 hurts? ''
+---
+> When the `` patient '' exceeded the very small knowledge base, 「 ELIZA ( ELIZA )」 might provide a generic response, for example, responding to `` 「 the `` patient '' ( My )」 head hurts '' with `` Why do you say 「 you ( your )」 head hurts ? ''
+24c24
+< Many of the notable early successes occurred in the field of 「 a solved problem ( 「 a solved problem ( machine translation )」, due especially to work at IBM Research, where successively more complicated statistical models were developed )」.
+---
+> Many of the notable early successes occurred in the field of 「 a solved problem ( machine translation )」, due especially to work at IBM Research, where successively more complicated statistical models were developed.
+40c40
+< Increasingly, however, research has focused on 「 statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to the features making up the input data ( 「 statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to the features making up the input data ( statistical models )」, which make 「 soft, probabilistic decisions ( soft, probabilistic decisions )」 based on attaching 「 real-valued weights ( real-valued weights )」 to each input feature )」.
+---
+> Increasingly, however, research has focused on 「 statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to the features making up the input data ( statistical models )」, which make 「 soft, probabilistic decisions ( soft, probabilistic decisions )」 based on attaching 「 real-valued weights ( real-valued weights )」 to each input feature.
+46c46
+< However, 「 the systems ( systems based on 「 hand-written rules ( hand-written rules )」 )」 can only be made more accurate by increasing the complexity of 「 the rules ( 「 the rules ( the rules )」, which is a much more difficult task )」.
+---
+> However, 「 the systems ( systems based on hand-written rules )」 can only be made more accurate by increasing the complexity of 「 the rules ( the rules )」, which is a much more difficult task.
+../romachi/nlp56.txt : ../rtakada/nlp56.txt
+12c12
+< When the `` patient '' exceeded the very small knowledge base, 「 ELIZA ( ELIZA )」 might provide a generic response, for example, responding to `` 「 the `` patient '' ( My )」 head hurts '' with `` Why do you say 「 you ( your )」 head hurts ? ''
+---
+> When the `` patient '' exceeded the very small knowledge base, 「 ELIZA ( ELIZA )」 might provide a generic response, for example, responding to `` 「 the `` patient '' ( My )」 head hurts '' with `` Why do you say 「 you ( 「 My head ( your )」 head )」 hurts? ''
+24c24
+< Many of the notable early successes occurred in the field of 「 a solved problem ( machine translation )」, due especially to work at IBM Research, where successively more complicated statistical models were developed.
+---
+> Many of the notable early successes occurred in the field of 「 a solved problem ( 「 a solved problem ( machine translation )」, due especially to work at IBM Research, where successively more complicated statistical models were developed )」.
+40c40
+< Increasingly, however, research has focused on 「 statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to the features making up the input data ( statistical models )」, which make 「 soft, probabilistic decisions ( soft, probabilistic decisions )」 based on attaching 「 real-valued weights ( real-valued weights )」 to each input feature.
+---
+> Increasingly, however, research has focused on 「 statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to the features making up the input data ( 「 statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to the features making up the input data ( statistical models )」, which make 「 soft, probabilistic decisions ( soft, probabilistic decisions )」 based on attaching 「 real-valued weights ( real-valued weights )」 to each input feature )」.
+46c46
+< However, 「 the systems ( systems based on hand-written rules )」 can only be made more accurate by increasing the complexity of 「 the rules ( the rules )」, which is a much more difficult task.
+---
+> However, 「 the systems ( systems based on 「 hand-written rules ( hand-written rules )」 )」 can only be made more accurate by increasing the complexity of 「 the rules ( 「 the rules ( the rules )」, which is a much more difficult task )」.
