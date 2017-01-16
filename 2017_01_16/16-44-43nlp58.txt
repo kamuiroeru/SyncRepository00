@@ -1,0 +1,19 @@
+../rokumura/nlp58.txt : ../romachi/nlp58.txt
+19d18
+< models	have	advantage
+20a20
+> models	have	advantage
+../rokumura/nlp58.txt : ../rtakada/nlp58.txt
+6d5
+< patient	exceeded	base
+7a7
+> patient	exceeded	base
+../romachi/nlp58.txt : ../rtakada/nlp58.txt
+6d5
+< patient	exceeded	base
+7a7
+> patient	exceeded	base
+19d18
+< they	express	certainty
+20a20
+> they	express	certainty
